@@ -10,7 +10,8 @@ contract Subasta{
   address public highestBidder;
   uint public highestBid;
   bool ended;
-  uint _bid;
+  
+  //Falta corregir la funcion para hacer una oferta
   
   
   
